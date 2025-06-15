@@ -45,5 +45,5 @@ Estoy constantemente trabajando en nuevos proyectos y contribuyendo a la comunid
 
 Siempre estoy abierto a colaborar en proyectos interesantes o discutir nuevas ideas. ¡No dudes en contactarme!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu_perfil_linkedin_de_wilmer)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu_perfil_github_de_wilmer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilmervasquezlino)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wilmervasquez)
